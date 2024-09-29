@@ -2,8 +2,7 @@
 
 ## Just run it
 
-In this course we will create an app for running! You will be able to see you logged kilometers 
-and durations in nice grafs.
+![hero](https://github.com/user-attachments/assets/646a2956-03eb-424e-9b23-7e72df2123e7)
 
 ##  Features 
 View your runs, and list the past runs you've completed. 
